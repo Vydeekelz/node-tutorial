@@ -1,4 +1,4 @@
-This is the html content of the survey form:(new commit)
+This is the html content of the survey form:(corrected new commit)
  <!DOCTYPE HTML>
 <!-- This is how HTML comments look like -->
 <html>
@@ -8,7 +8,7 @@ This is the html content of the survey form:(new commit)
 </head>
 <body>
 <!-- as it is a survey form, we will need to submit the details, hence we use form -->
-<!-- We can give absolute url, or relative url like /nextpage.jsp, angit checkoutd specify POST or GET method -->
+<!-- We can give absolute url, or relative url like /nextpage.jsp, and specify POST or GET method -->
 <form action="http://google.co.in">
 <!-- If we remove this, every thing will move to the left of the page-->
 <div align="center">
