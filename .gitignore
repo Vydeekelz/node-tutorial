@@ -1,3 +1,3 @@
 /node_modules 
-/authkey
-/authkey.pub
+authkey
+authkey.pub
